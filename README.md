@@ -6,6 +6,10 @@ Settld is a mobile-first web app for splitting a restaurant bill fairly. The per
 
 Built in one evening at the **Lovable Buildathon at Imperial College London (October 2026)** by **Asim Sajjad** and **Faizan Arif**.
 
+## Context
+
+Settld was built at the Lovable Buildathon at Imperial College London, where we were among just **85 participants selected from 400+ applicants**. We had a **2-hour build window**, so the whole app was designed and built in one sprint in [Lovable](https://lovable.dev), then exported here afterwards. That's why the history is a single commit rather than a gradual build-up.
+
 ## Features
 
 - **Live QR claiming.** The host opens a table with a 4-character code and QR. Guests join from their phones and tap the items they had. Claims sync in real time across every phone (Supabase Realtime), and shared dishes split automatically between everyone who claimed them.
